@@ -34,7 +34,7 @@ Run the following command:
 python cv.py
 ```
 
-Press **q** to exit.
+Press **Shift + c** to exit.
 
 ---
 
@@ -71,5 +71,9 @@ The webcam will open and faces will be detected in real time.
 * Mask detection
 
 ---
+
+## Results
+
+The system successfully detects faces in real time using webcam input. Rectangular bounding boxes appear around faces.
 
 # End of Document
