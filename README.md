@@ -43,7 +43,7 @@ Press **q** to exit.
 ```
 face-detection/
 │
-├── face_detection.py
+├── cv.py
 ├── README.md
 └── haarcascade_frontalface_default.xml
 ```
@@ -69,12 +69,6 @@ The webcam will open and faces will be detected in real time.
 * Face recognition
 * Emotion detection
 * Mask detection
-
----
-
-## Author
-
-S Ritvik
 
 ---
 
