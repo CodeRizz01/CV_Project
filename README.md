@@ -18,7 +18,7 @@ This project implements a real‑time face detection system using OpenCV and Pyt
 
 ## Installation
 
-### Step 1: Install Requirements
+### Install Requirements
 
 ```bash
 pip install opencv-python
