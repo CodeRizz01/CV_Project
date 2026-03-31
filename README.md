@@ -31,10 +31,10 @@ pip install opencv-python
 Run the following command:
 
 ```bash
-python face_detection.py
+python cv.py
 ```
 
-Press **Q** to exit.
+Press **q** to exit.
 
 ---
 
